@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MyPrimeraApp</string>
+    <string name="app_name" translatable="false">MyPrimeraApp</string>
+    <string name="mensaje_txt">Welcome</string>
+    <string name="image_description_txt">Linux image</string>
 </resources>
